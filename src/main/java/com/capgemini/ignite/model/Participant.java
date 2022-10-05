@@ -13,8 +13,8 @@ import java.util.UUID;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-@Table(name = "product")
-@Entity(name = "Product")
+@Table(name = "participant")
+@Entity(name = "Participant")
 public class Participant {
 
     @Id
